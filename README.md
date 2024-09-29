@@ -13,6 +13,6 @@ The circuit was first simulated using Proteus to verify functionality and then s
 
 ### Designed circuit
 
-<img src="Images\Circuit design.png" alt="Image" width="600" height="300"/>
+<img src="Images\Circuit design.png" alt="Image" width="700" height="350"/>
 
 
