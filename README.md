@@ -2,4 +2,11 @@
 
 Electrocorticogram (ECoG) is an electrophysiological signal that results from the summation of neuronal activity near the cortical surface. To record ECoG signals, the scalp and skull are surgically opened and electrodes are placed on the cortical surface, either epidurally or subdurally.
 
-Designed a circuit using second order high pass filter, instrumentation amplifier (INA 128), second order low pass filter and a second order notch filter (Twin-T notch filter).
+Designed and implemented a comprehensive signal measurement circuit, consisting of the following key components:
+
+1. Second-order high-pass filter
+2. Instrumentation amplifier (INA 128)
+3. Second-order low-pass filter
+4. Second-order notch filter (Twin-T notch filter)
+
+The circuit was first simulated using Proteus to verify functionality and then successfully built and tested in the lab for accurate signal measurement.
