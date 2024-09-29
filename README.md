@@ -10,3 +10,7 @@ Designed and implemented a comprehensive signal measurement circuit, consisting 
 4. Second-order notch filter (Twin-T notch filter)
 
 The circuit was first simulated using Proteus to verify functionality and then successfully built and tested in the lab for accurate signal measurement.
+
+### Designed circuit
+
+
