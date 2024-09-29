@@ -14,3 +14,7 @@ The circuit was first simulated using Proteus to verify functionality and then s
 ### Designed circuit
 
 <img src="Images\Circuit design.png" alt="Image" width="600" height="300"/>
+
+### Observed Frequency Response plot 
+
+<img src="Images\without notch.png" alt="Image" width="600" height="300"/>
