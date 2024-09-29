@@ -17,4 +17,4 @@ The circuit was first simulated using Proteus to verify functionality and then s
 
 ### Observed Frequency Response plot 
 
-<img src="Images\without notch.png" alt="Image" width="600" height="300"/>
+<img src="Images\With notch.png" alt="Image" width="600" height="300"/>
