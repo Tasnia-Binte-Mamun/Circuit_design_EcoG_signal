@@ -15,6 +15,4 @@ The circuit was first simulated using Proteus to verify functionality and then s
 
 <img src="Images\Circuit design.png" alt="Image" width="600" height="300"/>
 
-### Observed Frequency Response plot from oscilloscope of lab
 
-<img src="Images\With notch.png" alt="Image" width="600" height="300"/>
